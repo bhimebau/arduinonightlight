@@ -5,7 +5,9 @@
 Create a nightlight by linking the led output to the value of the
 light sensor. Determine a threshold for the light sensor and enble the
 LED when the room is dark and disable the LED when the room has
-adequate light.
+adequate light. Additionally, print the word "DAY" on the terminal one
+time on the transition to day and the word "NIGHT" one time on the
+transition to night.
 
 In this example, the code that goes in the loop has been purposly
 ommitted. This will provide you with an opportunity to create a custom
@@ -37,10 +39,3 @@ void loop() {
 }
 ```
 
-## Output 
-
-![Image of expected output](image/example_5_output.png)
-
-## Exploration 
-
-* The example program prints "NIGHT" or "DAY" repeatedly. How would you change the program to only print the "NIGHT" or "DAY" one time for each transition? 
