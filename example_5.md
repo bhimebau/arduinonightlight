@@ -2,7 +2,14 @@
 
 ## Overview
 
-Create a nightlight by linking the led output to the value of the light sensor. 
+Create a nightlight by linking the led output to the value of the
+light sensor. Determine a threshold for the light sensor and enble the
+LED when the room is dark and disable the LED when the room has
+adequate light.
+
+In this example, the code that goes in the loop has been purposly
+ommitted. This will provide you with an opportunity to create a custom
+solution.
 
 ## Hardware Setup
 
