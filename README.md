@@ -8,7 +8,7 @@
 ## Session 2 - Arduino Tutorials 
 [Arduino IDE Built in Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
-The followiung list is a selection of the built in tutorials to complete. 
+The following list is a selection of the built in tutorials to complete. 
   * [Pushbuttons](https://www.arduino.cc/en/Tutorial/StateChangeDetection) 
   * [LED Fading](https://www.arduino.cc/en/Tutorial/Fading)
   * [Tone Melody](https://www.arduino.cc/en/Tutorial/toneMelody)
@@ -23,7 +23,7 @@ Libraries - download as zip files and copy to your Arduino/libraries Folder (see
  
 TFT and Touch Screen Examples: Note that there are working example included in **File->Examples**  
 
-Development Challenges
+### Development Challenges
   * Problem 1: Create a program that moves a circle around the edges of the screen. Try to make the motion of the circle as smooth as possible.  
   * Problem 2: Create a program that generates the IU logo.
   * Problem 3: Create a program that allow you to move a rectangle to a location on the screen specified by the touch of a user. 
