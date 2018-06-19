@@ -15,7 +15,7 @@ The following list is a selection of the built in tutorials to complete.
   * [LED Bar Graph](https://www.arduino.cc/en/Tutorial/BarGraph) 
 
 ## Session 3 - TFT Display
-The [TFTP Display Wiki](http://www.seeedstudio.com/wiki/2.8''_TFT_Touch_Shield_V2.0) provides a great deal of background information on the display/touch screen. 
+The [TFTP Display Wiki](http://wiki.seeedstudio.com/2.8inch_TFT_Touch_Shield_v2.0/) provides a great deal of background information on the display/touch screen. 
 
 Libraries - download as zip files and copy to your Arduino/libraries Folder (see wiki above for additional detail). *Once the library files are copyed, you will need to restart the Arduino IDE for the files to be recognized.* 
   * [Display](https://github.com/Seeed-Studio/TFT_Touch_Shield_V2)
