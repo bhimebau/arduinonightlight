@@ -29,5 +29,7 @@ TFT and Touch Screen Examples: Note that there are working example included in *
   * Problem 3: Create a program that allow you to move a rectangle to a location on the screen specified by the touch of a user. 
   * Problem 4: Extend your solution to Problem 3 by changing the color of the rectangle based on how hard the user is pressing on the screen. See the [TFTP Display Wiki Draw Circle](http://www.seeedstudio.com/wiki/2.8''_TFT_Touch_Shield_V2.0#drawCircle:) explanation for more information on how to generate specific colors. 
   
-## Elegoo Kit  
-*  [Libraries and Examples](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
+## Camp Kit
+* [Experiment Guide](camp_kit/experiments.pdf)
+[Libraries and Examples](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
+
