@@ -7,9 +7,9 @@
 
 ## Night Light Nano
   * [Example 1 - Hello World](example_1_nano.md)
-  * [Example 2 - Potentiometer Input](example_2.md)
-  * [Example 3 - Light Sensor Input](example_3.md)
-  * [Example 4 - LED Output](example_4.md)
+  * [Example 2 - Potentiometer Input](example_2_nano.md)
+  * [Example 3 - Light Sensor Input](example_3_nano.md)
+  * [Example 4 - LED Output](example_4_nano.md)
   * [Example 5 - Creating a NightLight](example_5_nano.md)
 
 ## Arduino Tutorials 
